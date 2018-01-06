@@ -1,2 +1,1 @@
-# S_self
-LINETCR
+SYNDICATE_SELF
